@@ -1,0 +1,151 @@
+body{
+  width: 70%;
+  margin-left: 15%;
+  font-size: 17px;
+  background-color: #EFEFEF;
+
+}
+header{
+  background-color: #00D7FF;
+  padding-bottom: 40px;
+
+}
+
+header h1{
+  font-size: 100px;
+  text-align: center;
+  font-weight: 400;
+  font-family: 'Caveat', cursive;  margin-bottom: 0;
+  margin-top: 0;
+  color: #8758FF;
+  text-shadow: 2px 2px 4px #000000;}
+header h2{
+  font-size: 50px;
+  text-align: center;
+  font-weight: 400;
+  font-family: 'Caveat', cursive;  margin-bottom: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+header p {
+  text-align: center;
+  width: 60%;
+  margin-left: 20%;
+  margin-top: 0;
+}
+.sectionA{
+  background-color: #FFDEB4;
+
+}
+.sectionB{
+  margin-bottom: 12%;
+  width: 60%;
+  margin-left: 20%;
+  text-align: justify;
+}
+.sectionB h2{
+  margin-top: 0;
+  padding-top: 30px;
+  font-size: 30px;
+  font-weight: 400;
+  font-family: 'Caveat', cursive;  margin-bottom: 0;
+}
+.p1{
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+.sectionB button{
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+}
+.sectionB button:hover{
+  background-color: #FF5D5D;
+}
+.sectionB img{
+  width: 300px;
+  height: 246px;
+  float: left;
+  margin-right: 100px;
+}
+.sectionB h3{
+  font-weight: 400;
+  font-family: 'Caveat', cursive;  margin-bottom: 0;
+}
+
+/* Work ex*/
+.Experience{
+  margin-bottom: 12%;
+  width: 60%;
+  margin-left: 20%;
+  text-align: justify;
+}
+.Experience h2{
+  margin-top: 0;
+  padding-top: 30px;
+  font-size: 30px;
+  font-weight: 400;
+  font-family: 'Caveat', cursive;  margin-bottom: 0;
+}
+.Experience img{
+  width: 350px;
+  height: 300px;
+  float: right;
+  margin-right: 100px;
+  margin-left: 30px;
+}
+.Experience h3{
+  font-weight: 400;
+  font-family: 'Caveat', cursive;  margin-bottom: 0;
+}
+/* end Work ex*/
+
+.ExperienceA{
+  padding-top: 200px;
+  padding-bottom: 100px;
+  background-color: #B8F1B0;
+}
+.Education{
+  background-image: url("../placeholder images/joanna-kosinska-unsplash.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  padding: 150px;
+}
+.EducationA{
+  width: 60%;
+  margin-left: 20%;
+  text-align: justify;
+}
+.EducationA h2{
+  font-size: 30px;
+  font-weight: 400;
+  font-family: 'Caveat', cursive;  margin-bottom: 0;
+}
+.footer{
+  background-color: #2E0249;
+  color: #FFFFFF;
+}
+footer{
+    width: 60%;
+    margin-left: 20%;
+}
+footer h2{
+  text-align: center;
+  font-size: 30px;
+  font-weight: 400;
+  font-family: 'Caveat', cursive;  margin-bottom: 0;
+  margin-top: 0;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+footer ul li{
+  display: inline-block;
+  padding: 30px;
+  border: solid 1px;
+  padding: 5px;
+  background-color: #FFFAE7;
+  border-radius: 8px;
+}
+footer ul{
+  text-align: center;
+}
